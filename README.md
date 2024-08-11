@@ -1,7 +1,3 @@
-# Todo App
+## Todo-App
 
-## A Simple Todo application
-
-- User can create Todo
-- View the existing Todos
-- Mark it as done
+This is a simple and intuitive ToDo application built to help you organize and manage your tasks efficiently. With this app, you can add, view, and delete tasks in a straightforward interface.
